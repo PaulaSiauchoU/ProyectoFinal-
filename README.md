@@ -5,6 +5,7 @@ Esta proteína está involucrada en la formación de capas celulares entre en pa
 Paquetes a instalar:
 - Bio 
 - Augustus
+-Pygustus
 
 Se escogio Augustus porque está optimizado para eucariotas. 
 Se debe poner en la misma carpeta el arhivo credentials.py y las rutas indicadas en el notebook se ben cambiar. 
